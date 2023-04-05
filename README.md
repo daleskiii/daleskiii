@@ -1,4 +1,4 @@
- Hello There my name is Aundale Walker. I am currently studying to be a full stack web devloper at Pursuit. Pursuit is. 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developer at leading companies such as Pinterest, Jp, morgan, and spotify. I am passionate about engineering in a whole, and building apps couldn't be more excited to me. I am currently strengthing my coding skills everyday. Welcome to my GitHub page. 
+ Hello There my name is Aundale Walker. I am currently studying to be a full stack web devloper at Pursuit. Pursuit is. 12-month, Google-funded software engineering fellowship with a 9% acceptance rate whose graduates have been hired as developer at leading companies such as Pinterest, Jp, morgan, and spotify. I am passionate about engineering in a whole, and building apps couldn't be more exciting to me. I am currently strengthing my coding skills everyday. Welcome to my GitHub page. 
  
  **Blog coming soon**
  
